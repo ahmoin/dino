@@ -1,4 +1,4 @@
 ---
 ---
 
-# tonic-starter
+# Dino Jekyll Theme
