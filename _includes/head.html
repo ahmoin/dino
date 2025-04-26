@@ -1,10 +1,5 @@
 <head>
-    {%- if page.title == site.title -%}
-    {%- capture title -%}{{ site.title }} &mdash; home{%- endcapture -%}
-    {%- else -%}
-    {%- capture title -%}{{ site.title }} &mdash; {{ page.title }}{%- endcapture -%}
-    {%- endif -%}
-    <title>{{ title }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
