@@ -3,8 +3,7 @@ title: dino
 layout: page
 ---
 
-# dino
-dino is a jekyll theme for dinos.
+a jekyll theme for dinos.
 
 ## font
 Dinomik - https://www.dafont.com/dinomik.font
