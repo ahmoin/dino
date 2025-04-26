@@ -1,6 +1,6 @@
 ---
+title: dino
+layout: page
 ---
 
-# Dino Jekyll Theme
-
-## A jekyll theme for dinosaurs
+dino is a jekyll theme for dinos.

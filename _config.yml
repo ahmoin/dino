@@ -1,5 +1,5 @@
 title: dino
-description: "A jekyll theme for dinosaurs"
+description: a jekyll theme for dinos
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
