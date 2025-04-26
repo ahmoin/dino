@@ -1,5 +1,6 @@
 <head>
-    <title>{{ page.title }} | {{ site.title }}</title>
+    {%- capture title -%}{{ site.title }} &mdash; {% if page.title != site.title %}{{ page.title }}{% else %}home{% endif %}{%- endcapture -%}
+    <title>{{ title }}</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
